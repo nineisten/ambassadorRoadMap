@@ -90,7 +90,7 @@ KPIs are tracked monthly and reported in a standardized format. Compensation is 
 | Meetups Scheduled/Attended   | Number of local meetups or events hosted/attended                            | 2            | 1        | 2                 |
 | Proposal Submission Rate (%) | Percentage of targeted proposals submitted on time                           | 100          | 100      | 100               |
 | Retention Rate (%)           | Percentage of active ambassadors retained monthly                            | 80           | 80       | 85                |
-
+| Social Media Growth (%)      | Growth in followers/engagement across platforms (placeholder)                | 15           | 20       | 25                |
 
 **Table Notes**:
 - **New Ambassadors Onboarded**: Reflects minimum targets from the roadmap (3 in Sep-Oct, 4 in Nov, 5 in Dec-Jan).
