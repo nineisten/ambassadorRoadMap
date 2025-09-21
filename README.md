@@ -97,5 +97,4 @@ KPIs are tracked monthly and reported in a standardized format. Compensation is 
 - **Meetups Scheduled/Attended**: Based on explicit mentions (2+ in Sep-Oct, 1 for Blockchain Futurist in Nov, 2+ for Dec-Jan as updated).
 - **Proposal Submission Rate**: Set to 100% as per milestone targets.
 - **Retention Rate**: Targets 80% for Sep-Oct and Nov, 85% for Dec-Jan.
-- **Social Media Growth**: Placeholder percentages (15%, 20%, 25%) for follower/engagement growth; update with specific metrics if provided.
 - Additional KPIs (e.g., partnership leads, developer onboarding) can be added with further data.
