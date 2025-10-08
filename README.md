@@ -12,12 +12,15 @@ Key Principles:
 - Emphasize decentralization linked to American ideals, such as freedom and the Constitution, while highlighting Qubic's advantages (e.g., tax implications from PoS chains vs. Qubic's XMR mining rewards).
 - Promote Anna to illustrate the difference between an LLM AI model and an AGI self-evolving model.
 
+- **Community Wallets**:
+   - RWO wallet: HKAQHTEHMHZUPCTKTOEOMJNIVCQCCWAHWBAZBHXGHCTLGBIWIHOQFGAAFBVC 
 ## Team Structure
 
 ### Current Team
 - **Community Leads**:
   - Chad: Online Community Outreach
   - Evandon: Real-World Outreach
+
 
 ### Pending Roles
 - **Regional Director**: Plans and executes regional outreach, including event coordination and local partnerships.
