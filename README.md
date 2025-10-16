@@ -13,6 +13,7 @@ Key Principles:
 - Promote Anna to illustrate the difference between an LLM AI model and an AGI self-evolving model.
 
 - **Community Wallets**:
+   - OCO wallet: OWXLPJZGBZUMDFDYEABFTUBKFTGDOUCMUKZHCBWXNFUBCMWGOCGDKDMDDQVC
    - RWO wallet: HKAQHTEHMHZUPCTKTOEOMJNIVCQCCWAHWBAZBHXGHCTLGBIWIHOQFGAAFBVC 
 ## Team Structure
 
